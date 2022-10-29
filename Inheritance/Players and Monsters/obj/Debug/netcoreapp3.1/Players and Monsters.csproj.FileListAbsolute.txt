@@ -1,0 +1,14 @@
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.exe
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.deps.json
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.runtimeconfig.json
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.runtimeconfig.dev.json
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.dll
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\bin\Debug\netcoreapp3.1\Players and Monsters.pdb
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.csproj.AssemblyReference.cache
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.AssemblyInfoInputs.cache
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.AssemblyInfo.cs
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.csproj.CoreCompileInputs.cache
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.dll
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.pdb
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Players and Monsters\obj\Debug\netcoreapp3.1\Players and Monsters.genruntimeconfig.cache

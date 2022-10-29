@@ -1,12 +1,17 @@
 ﻿using System;
 
-namespace Players_and_Monsters
+namespace PlayersAndMonsters
 {
     public class StartUp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Hero hero  = new Hero("Mordor", 50);
+
+            Console.WriteLine(hero);
+            BladeKnight bk = new BladeKnight("Hamid", 25);
+            Console.WriteLine(bk);
+
         }
     }
 }

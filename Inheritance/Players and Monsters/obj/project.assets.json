@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\softuni\\C# OOP\\Softuni-CSharp-OOP\\Inheritance\\Players and Monsters\\Players and Monsters.csproj",
-      "projectName": "Players and Monsters",
-      "projectPath": "D:\\softuni\\C# OOP\\Softuni-CSharp-OOP\\Inheritance\\Players and Monsters\\Players and Monsters.csproj",
+      "projectUniqueName": "D:\\softuni\\C# OOP\\Softuni-CSharp-OOP\\Inheritance\\Players and Monsters\\PlayersAndMonsters.csproj",
+      "projectName": "PlayersAndMonsters",
+      "projectPath": "D:\\softuni\\C# OOP\\Softuni-CSharp-OOP\\Inheritance\\Players and Monsters\\PlayersAndMonsters.csproj",
       "packagesPath": "C:\\Users\\disni\\.nuget\\packages\\",
       "outputPath": "D:\\softuni\\C# OOP\\Softuni-CSharp-OOP\\Inheritance\\Players and Monsters\\obj\\",
       "projectStyle": "PackageReference",
