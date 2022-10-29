@@ -1,0 +1,14 @@
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\obj\Debug\netcoreapp3.1\Person.pdb
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Inheritance\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
