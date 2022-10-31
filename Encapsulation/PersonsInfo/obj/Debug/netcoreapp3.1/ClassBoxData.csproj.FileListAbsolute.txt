@@ -1,0 +1,14 @@
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.AssemblyReference.cache
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfoInputs.cache
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfo.cs
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CoreCompileInputs.cache
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
+D:\softuni\C# OOP\Softuni-CSharp-OOP\Encapsulation\PersonsInfo\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache
