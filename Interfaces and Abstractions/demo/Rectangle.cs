@@ -6,6 +6,10 @@ namespace demo
 {
     class Rectangle
     {
+        public Rectangle()
+        {
+
+        }
         public void DrawABox(int row, int col, int height, int width)
         {
             int LastIndex = 5;

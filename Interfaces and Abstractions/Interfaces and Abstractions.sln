@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo", "demo\demo.csproj", "{539E32B8-05D0-46C4-934D-D7322AC36ED2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{5906427F-8C99-405C-84B2-41B689F6F59E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cars", "Cars\Cars.csproj", "{B6AA0E3B-4A49-43BD-9BC3-5204FF34CFBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{539E32B8-05D0-46C4-934D-D7322AC36ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{539E32B8-05D0-46C4-934D-D7322AC36ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{539E32B8-05D0-46C4-934D-D7322AC36ED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5906427F-8C99-405C-84B2-41B689F6F59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5906427F-8C99-405C-84B2-41B689F6F59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5906427F-8C99-405C-84B2-41B689F6F59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5906427F-8C99-405C-84B2-41B689F6F59E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6AA0E3B-4A49-43BD-9BC3-5204FF34CFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6AA0E3B-4A49-43BD-9BC3-5204FF34CFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6AA0E3B-4A49-43BD-9BC3-5204FF34CFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6AA0E3B-4A49-43BD-9BC3-5204FF34CFBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

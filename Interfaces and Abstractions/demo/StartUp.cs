@@ -16,7 +16,7 @@ namespace demo
             Console.WriteLine();
             Console.WriteLine();
             Rectangle rect = new Rectangle();
-            rect.DrawABox(40,5,29,10);
+            rect.DrawABox(int.Parse(Console.ReadLine()), int.Parse(Console.ReadLine()), int.Parse(Console.ReadLine()), int.Parse(Console.ReadLine()));
         }
     }
 }
