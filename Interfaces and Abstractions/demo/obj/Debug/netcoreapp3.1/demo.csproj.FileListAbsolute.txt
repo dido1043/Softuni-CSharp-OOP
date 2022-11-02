@@ -1,0 +1,13 @@
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\bin\Debug\netcoreapp3.1\demo.exe
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\bin\Debug\netcoreapp3.1\demo.dll
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\bin\Debug\netcoreapp3.1\demo.pdb
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\obj\Debug\netcoreapp3.1\demo.csproj.AssemblyReference.cache
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\obj\Debug\netcoreapp3.1\demo.dll
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\obj\Debug\netcoreapp3.1\demo.pdb
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache
