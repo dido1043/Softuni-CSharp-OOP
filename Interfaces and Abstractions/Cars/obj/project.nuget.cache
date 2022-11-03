@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "K9ONw77OJ82JxbS9u8Q5n30gTUOmpt8fUKksS9i6gzkeNsxgvNE1ERMKRwSBDkdFCHDFHjM43Qgrmn34ML6bYw==",
+  "dgSpecHash": "fofWNteZwwjUpJu0GpmtkjlziP/mSXvF9fOcHUlM36at6VUJxIX7ohNUJ313KC/QDIL+p2IuPJcL1+tDh+tVKA==",
   "success": true,
   "projectFilePath": "E:\\C#\\Softuni-CSharp-OOP\\Interfaces and Abstractions\\Cars\\Cars.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dido\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

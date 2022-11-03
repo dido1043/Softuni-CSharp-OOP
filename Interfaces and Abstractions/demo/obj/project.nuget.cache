@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tZ92nVFWwGZ42+vLhVqJGmMqlnfw9j8FI7vSqjKwGP7EUHQS7KOi+CM0Ju80kBn18MapKhe7ePrG92n0mp1CDQ==",
+  "dgSpecHash": "ylRBbp3pgIkNPrubL94gIK1swzN3OuOxk4ZRv1gF31ZP2M+/Wa8N87UsmgPC4L9uHxi2xDeqCUCpY89CPN82iA==",
   "success": true,
   "projectFilePath": "E:\\C#\\Softuni-CSharp-OOP\\Interfaces and Abstractions\\demo\\demo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dido\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

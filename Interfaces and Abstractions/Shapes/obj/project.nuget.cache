@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "i4tesB77Nw4AG24eQOmnyBOiylLpUh+84YrS3vzMKcta1umBgPMTCeXeuBRhac6WHk59ux2OBMSxFq+XOss34Q==",
+  "dgSpecHash": "wZ8aac7mozShTqhi91kIaUkBqYgQ8+G7zIylBAe8MTPfYNw1Y7kkuFFr+JZkBnbxI2zD2vm/X7mkU6j4csxiGA==",
   "success": true,
   "projectFilePath": "E:\\C#\\Softuni-CSharp-OOP\\Interfaces and Abstractions\\Shapes\\Shapes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dido\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,14 @@
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.exe
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.deps.json
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.json
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.runtimeconfig.dev.json
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.dll
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\bin\Debug\netcoreapp3.1\PersonInfo.pdb
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.AssemblyReference.cache
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfoInputs.cache
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.AssemblyInfo.cs
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.csproj.CoreCompileInputs.cache
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.dll
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.pdb
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.genruntimeconfig.cache
+E:\C#\Softuni-CSharp-OOP\Interfaces and Abstractions\PersonInfo\obj\Debug\netcoreapp3.1\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig

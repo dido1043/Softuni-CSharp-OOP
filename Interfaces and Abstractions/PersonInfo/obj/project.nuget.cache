@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UEJd64OgAqAlEp/I2qicLxypkXEukJ1EJX9XNvkO5CgsxxDHqc6LXYLmlh1oSYFfUhswRUZp2WNWM23XaHEgNA==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Softuni-CSharp-OOP\\Interfaces and Abstractions\\PersonInfo\\PersonInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dido\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
