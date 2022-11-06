@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ttJhySS5u0b0eoTde9R9Sbe+bp/BHSkpe4UyT4CXviEoQ3Yz8CKHhfu2utgHmdY91OH7fSswnHKz+Ds0oXBvYA==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Softuni-CSharp-OOP\\Polymorphism\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dido\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
