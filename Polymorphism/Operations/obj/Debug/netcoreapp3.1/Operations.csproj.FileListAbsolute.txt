@@ -1,0 +1,14 @@
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.exe
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.deps.json
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.json
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.runtimeconfig.dev.json
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.dll
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\bin\Debug\netcoreapp3.1\Operations.pdb
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.AssemblyReference.cache
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfoInputs.cache
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.AssemblyInfo.cs
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.csproj.CoreCompileInputs.cache
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.dll
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.pdb
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Operations\obj\Debug\netcoreapp3.1\Operations.genruntimeconfig.cache
