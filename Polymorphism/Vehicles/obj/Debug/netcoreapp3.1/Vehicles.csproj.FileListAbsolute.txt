@@ -1,0 +1,14 @@
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.AssemblyReference.cache
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+E:\C#\Softuni-CSharp-OOP\Polymorphism\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

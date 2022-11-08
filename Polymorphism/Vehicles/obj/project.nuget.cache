@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "U024Qn+DaRL31CaPCiy87rqmaLey6RJs1UTj9vT1XuLiZCltHUvRc9xeMfjMszx8UzdhlaYk5yWd27e8fgRYNw==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Softuni-CSharp-OOP\\Polymorphism\\Vehicles\\Vehicles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dido\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
