@@ -1,0 +1,14 @@
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\bin\Debug\netcoreapp3.1\Stealer.exe
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\bin\Debug\netcoreapp3.1\Stealer.deps.json
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.json
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\bin\Debug\netcoreapp3.1\Stealer.runtimeconfig.dev.json
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\bin\Debug\netcoreapp3.1\Stealer.dll
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\bin\Debug\netcoreapp3.1\Stealer.pdb
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.AssemblyReference.cache
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\obj\Debug\netcoreapp3.1\Stealer.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfoInputs.cache
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\obj\Debug\netcoreapp3.1\Stealer.AssemblyInfo.cs
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\obj\Debug\netcoreapp3.1\Stealer.csproj.CoreCompileInputs.cache
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\obj\Debug\netcoreapp3.1\Stealer.dll
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\obj\Debug\netcoreapp3.1\Stealer.pdb
+E:\C#\Softuni-CSharp-OOP\Reflection\Stealer\obj\Debug\netcoreapp3.1\Stealer.genruntimeconfig.cache
