@@ -1,0 +1,14 @@
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.AssemblyReference.cache
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+E:\C#\Softuni-CSharp-OOP\Reflection\AuthorProblem\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache
