@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xQYIMRav9IaZobJBQ2n/dbnZwaINBQNT6EG23ySNHLmZoCIn9ylAhWpvG+6MRMkE7NjlFROKU52VXPnIz6oePA==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Softuni-CSharp-OOP\\exam tasks\\Skeleton\\Heroes\\Heroes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dido\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}

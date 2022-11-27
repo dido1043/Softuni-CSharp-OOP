@@ -1,0 +1,14 @@
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.exe
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.deps.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.runtimeconfig.dev.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.dll
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\bin\Debug\netcoreapp3.1\Heroes.pdb
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.AssemblyReference.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfoInputs.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.AssemblyInfo.cs
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.csproj.CoreCompileInputs.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.dll
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.pdb
+E:\C#\Softuni-CSharp-OOP\exam tasks\Skeleton\Heroes\obj\Debug\netcoreapp3.1\Heroes.genruntimeconfig.cache
