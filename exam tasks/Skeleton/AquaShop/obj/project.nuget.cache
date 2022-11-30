@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WKZQBVRDYKLq8vHnzmE0WVdADJ1zCpu3s1H0g0pfwHcDxOV9j4sou0vUZMm0RsLOIRU+GUsiEWT9k6hF5liYPQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#\\Softuni-CSharp-OOP\\exam tasks\\01. Structure_Skeleton (2)\\AquaShop\\AquaShop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dido\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Dido\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Dido\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Dido\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
