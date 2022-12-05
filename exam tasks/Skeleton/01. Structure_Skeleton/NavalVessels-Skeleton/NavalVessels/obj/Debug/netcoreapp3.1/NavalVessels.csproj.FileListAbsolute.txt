@@ -1,0 +1,14 @@
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.AssemblyReference.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfoInputs.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.AssemblyInfo.cs
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.csproj.CoreCompileInputs.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.exe
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.deps.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.runtimeconfig.dev.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.dll
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\bin\Debug\netcoreapp3.1\NavalVessels.pdb
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.dll
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.pdb
+E:\C#\Softuni-CSharp-OOP\exam tasks\01. Structure_Skeleton\NavalVessels-Skeleton\NavalVessels\obj\Debug\netcoreapp3.1\NavalVessels.genruntimeconfig.cache
