@@ -1,0 +1,14 @@
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\bin\Debug\netcoreapp3.1\PlanetWars.exe
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\bin\Debug\netcoreapp3.1\PlanetWars.deps.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\bin\Debug\netcoreapp3.1\PlanetWars.runtimeconfig.dev.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\bin\Debug\netcoreapp3.1\PlanetWars.dll
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\bin\Debug\netcoreapp3.1\PlanetWars.pdb
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\obj\Debug\netcoreapp3.1\PlanetWars.csproj.AssemblyReference.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\obj\Debug\netcoreapp3.1\PlanetWars.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfoInputs.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\obj\Debug\netcoreapp3.1\PlanetWars.AssemblyInfo.cs
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\obj\Debug\netcoreapp3.1\PlanetWars.csproj.CoreCompileInputs.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\obj\Debug\netcoreapp3.1\PlanetWars.dll
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\obj\Debug\netcoreapp3.1\PlanetWars.pdb
+E:\C#\Softuni-CSharp-OOP\exam tasks\Task14Aug2022\obj\Debug\netcoreapp3.1\PlanetWars.genruntimeconfig.cache
