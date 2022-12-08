@@ -1,0 +1,14 @@
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.exe
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.deps.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.dev.json
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.dll
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\bin\Debug\netcoreapp3.1\BookingApp.pdb
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.csproj.AssemblyReference.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfoInputs.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfo.cs
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.csproj.CoreCompileInputs.cache
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.dll
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.pdb
+E:\C#\Softuni-CSharp-OOP\exam tasks\22Aug2022\obj\Debug\netcoreapp3.1\BookingApp.genruntimeconfig.cache
